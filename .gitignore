@@ -15,7 +15,8 @@ configure
 contrib
 html
 srcs
-lua
+lua/resty
+lua/ngx
 lua-nginx-module*
 luajit-*
 ngx_devel_kit*
