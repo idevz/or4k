@@ -16,3 +16,7 @@ contrib
 html
 srcs
 lua
+lua-nginx-module*
+luajit-*
+ngx_devel_kit*
+stream-lua-nginx-module-*
