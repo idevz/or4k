@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="016d186b-e6ed-4b84-ad27-cc4b2e6737a2" name="ngx" projectName="or4k">
+      <configuration id="6fb47ced-da32-4cff-8708-af677b6aeece" name="ngx" toolchainName="Default">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_ngx-make" />
+        </build>
+      </configuration>
+    </target>
+  </component>
+</project>

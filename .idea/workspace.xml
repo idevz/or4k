@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6df5f85a-9d44-431a-a349-11d1c89304bf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="CompDBLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="or4k" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="or4k" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1567716284000" />
+        <entry key="$PROJECT_DIR$/compile_commands.json" value="2722294909" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lua-nginx-module-v0.10.15/src/ngx_http_lua_util.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="3889" selection-start-line="3889" selection-end-line="3889" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lua-nginx-module-v0.10.15/src/ngx_http_lua_module.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="789" selection-start-line="789" selection-end-line="789" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/http/ngx_http.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="307" selection-start-line="307" selection-end-line="307" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/ngx_conf_file.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="462" selection-start-line="462" selection-end-line="462" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/ngx_cycle.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="274" selection-start-line="274" selection-end-line="274" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/nginx.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="290" selection-start-line="290" selection-end-line="290" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/http/modules/ngx_http_range_filter_module.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="597">
+              <caret line="966" selection-start-line="966" selection-end-line="966" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/http/ngx_http_copy_filter_module.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="582">
+              <caret line="377" selection-start-line="377" selection-end-line="377" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/ngx_log.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="119" selection-start-line="119" selection-end-line="119" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/ngx_string.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="154" selection-start-line="154" selection-end-line="154" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cf</find>
+      <find>flag</find>
+      <find>make</find>
+      <find>MACOSX_DEPLOYMENT_TARGET</find>
+      <find>o2</find>
+      <find>XCFLAGS</find>
+      <find>spli</find>
+      <find>register_node</find>
+      <find>492</find>
+      <find>501</find>
+      <find>heartbeat_map</find>
+      <find>cluster_name</find>
+      <find>511</find>
+      <find>enable_heartbeat</find>
+      <find>switch_check_handle</find>
+      <find>SEPARATOR</find>
+      <find>metadata</find>
+      <find>get_request</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/run_path/lua/video" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/core/ngx_log.c" />
+        <option value="$PROJECT_DIR$/src/core/nginx.c" />
+        <option value="$PROJECT_DIR$/stream-lua-nginx-module-0.0.7/src/ngx_stream_lua_ctx.c" />
+        <option value="$PROJECT_DIR$/run_path/lua/motan/server/exporter.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/resty/vintage/naming_service.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/wmotan/registry/vintage.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/resty/vintage/client.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/video/video/sys/server_conf.ini" />
+        <option value="$PROJECT_DIR$/run_path/lua/motan/utils.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/video/video/VideoService.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/motan/init.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/motan/singletons.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/motan/server/init.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/motan/core/response.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/motan/filter/accesslog.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/motan/switch/switcher.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/motan/consts.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/motan/core/request.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/motan/provider/motan.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/motan/protocol/motan2/init.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/motan/switch/init.lua" />
+        <option value="$PROJECT_DIR$/run_path/lua/video/run_path/ngx_stream_conf/app-dev.conf" />
+        <option value="$PROJECT_DIR$/run_path/conf/ngx_conf/apisix.conf" />
+        <option value="$PROJECT_DIR$/run.sh" />
+        <option value="$PROJECT_DIR$/run_path/logs/access.log" />
+        <option value="$PROJECT_DIR$/run_path/lua/t.lua" />
+        <option value="$PROJECT_DIR$/run_path/conf/nginx.conf" />
+        <option value="$PROJECT_DIR$/run_path/conf/ngx_conf/t.conf" />
+        <option value="$PROJECT_DIR$/run_path/conf/ngx_stream_conf/app-dev.conf" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="239" />
+    <option name="y" value="23" />
+    <option name="width" value="1080" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="or4k" type="b2602c69:ProjectViewProjectNode" />
+              <item name="or4k" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="or4k" type="b2602c69:ProjectViewProjectNode" />
+              <item name="or4k" type="462c0819:PsiDirectoryNode" />
+              <item name="lua" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="or4k" type="b2602c69:ProjectViewProjectNode" />
+              <item name="or4k" type="462c0819:PsiDirectoryNode" />
+              <item name="run_path" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="or4k" type="b2602c69:ProjectViewProjectNode" />
+              <item name="or4k" type="462c0819:PsiDirectoryNode" />
+              <item name="run_path" type="462c0819:PsiDirectoryNode" />
+              <item name="lua" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../code" />
+      <recent name="$PROJECT_DIR$/../code/or4k" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/run_path/lua" />
+      <recent name="$PROJECT_DIR$/run_path/conf/ngx_conf" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="nginx" type="CLionExternalRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="or4k" TARGET_NAME="ngx" CONFIG_NAME="ngx" RUN_PATH="$PROJECT_DIR$/objs/nginx">
+      <envs>
+        <env name="LD_LIBRARY_PATH" value="$PROJECT_DIR$/../code/z/git/weibo-or/motan-openresty/lib/motan/libs:$PROJECT_DIR$/../.luarocks/lib/lua/5.1" />
+      </envs>
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6df5f85a-9d44-431a-a349-11d1c89304bf" name="Default Changelist" comment="" />
+      <created>1557372289364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557372289364</updated>
+      <workItem from="1557372290885" duration="51000" />
+      <workItem from="1557372354204" duration="2053000" />
+      <workItem from="1557377180822" duration="2400000" />
+      <workItem from="1557384098043" duration="1648000" />
+      <workItem from="1557907984466" duration="1979000" />
+      <workItem from="1557913824304" duration="995000" />
+      <workItem from="1557915903368" duration="69000" />
+      <workItem from="1557915987377" duration="2524000" />
+      <workItem from="1557973096779" duration="1476000" />
+      <workItem from="1558579701918" duration="612000" />
+      <workItem from="1559295163169" duration="153000" />
+      <workItem from="1559295328154" duration="6584000" />
+      <workItem from="1559857028011" duration="1074000" />
+      <workItem from="1559858213406" duration="12007000" />
+      <workItem from="1560128942032" duration="17052000" />
+      <workItem from="1560211906402" duration="26041000" />
+      <workItem from="1560248202655" duration="3962000" />
+      <workItem from="1560267677135" duration="20387000" />
+      <workItem from="1560350537256" duration="162000" />
+      <workItem from="1560350728882" duration="3304000" />
+      <workItem from="1560740976627" duration="165000" />
+      <workItem from="1560741695761" duration="133000" />
+      <workItem from="1560741844585" duration="95000" />
+      <workItem from="1560950744653" duration="2321000" />
+      <workItem from="1562339297822" duration="2644000" />
+      <workItem from="1563849268362" duration="15000" />
+      <workItem from="1567649733304" duration="5686000" />
+      <workItem from="1567706989837" duration="1904000" />
+      <workItem from="1567708944675" duration="1376000" />
+      <workItem from="1567710611235" duration="3000" />
+      <workItem from="1567711114724" duration="1099000" />
+      <workItem from="1567713064812" duration="425000" />
+      <workItem from="1567713802579" duration="872000" />
+      <workItem from="1567714900762" duration="266000" />
+      <workItem from="1567715393529" duration="6752000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="128289000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17155068" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.3272727" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4224599" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.17005348" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061053" side_tool="true" weight="0.32834226" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32941177" />
+      <window_info anchor="bottom" id="LuaCheck" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="make" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24084778" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.32797784" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.20720221" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061053" side_tool="true" weight="0.32834226" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32941177" />
+      <window_info anchor="bottom" id="LuaCheck" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="make" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/stream-lua-nginx-module-0.0.7/src/ngx_stream_lua_coroutine.c</url>
+          <line>97</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LuaJIT-2.1-20181029/src/lj_api.c</url>
+          <line>734</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/stream-lua-nginx-module-0.0.7/src/ngx_stream_lua_util.c</url>
+          <line>329</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/stream/ngx_stream_core_module.c</url>
+          <line>324</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/lua-nginx-module-0.10.15/src/ngx_http_lua_worker.c</url>
+          <line>105</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/luajit2-2.1-20190530/src/lj_ccall.c</url>
+          <line>1161</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/lua-nginx-module-0.10.15/src/ngx_http_lua_util.c</url>
+          <line>1090</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/lua-nginx-module-0.10.15/src/ngx_http_lua_contentby.c</url>
+          <line>121</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/lua-nginx-module-v0.10.15/src/ngx_http_lua_util.c</url>
+          <line>3892</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/run_path/lua/motan/switch/init.lua</url>
+          <line>53</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/run_path/lua/t.lua</url>
+          <line>3</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="lua-line">
+          <url>file://$PROJECT_DIR$/run_path/lua/resty/core/worker.lua</url>
+          <line>29</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/conf/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_path/ngx/errlog.lua" />
+    <entry file="file://$PROJECT_DIR$/run_path/lua/resty/core/base.lua" />
+    <entry file="file://$PROJECT_DIR$/run_path/lua/apisix/core/log.lua" />
+    <entry file="file://$PROJECT_DIR$/run_path/lua/resty/etcd.lua" />
+    <entry file="file://$PROJECT_DIR$/run_path/lua/apisix.lua" />
+    <entry file="file://$PROJECT_DIR$/run_path/lua/apisix/route.lua" />
+    <entry file="file://$PROJECT_DIR$/run_path/lua/apisix/core/config_etcd.lua" />
+    <entry file="file://$PROJECT_DIR$/run_path/ngx/errlog.md" />
+    <entry file="file://$PROJECT_DIR$/run_path/logs/streame-error.log" />
+    <entry file="file://$PROJECT_DIR$/run_path/logs/motan-access.log" />
+    <entry file="file://$PROJECT_DIR$/run_path/logs/access.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_path/logs/error.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env" />
+    <entry file="file://$PROJECT_DIR$/run_path/lua/resty/r3.lua" />
+    <entry file="file://$PROJECT_DIR$/run_path/lua/a.lua" />
+    <entry file="file://$PROJECT_DIR$/run_path/lua/apisix/core.lua" />
+    <entry file="file://$PROJECT_DIR$/run_path/lua/apisix/core/etcd.lua" />
+    <entry file="file://$PROJECT_DIR$/run_path/lua/resty/core/worker.lua" />
+    <entry file="file://$PROJECT_DIR$/run_path/conf/ngx_conf/apisix.conf.bak" />
+    <entry file="file://$PROJECT_DIR$/run_path/conf/ngx_conf/t.conf" />
+    <entry file="file://$PROJECT_DIR$/run_path/resty/core/worker.lua" />
+    <entry file="file://$PROJECT_DIR$/src/os/unix/ngx_process_cycle.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luajit2-2.1-20190530/src/lj_ctype.h" />
+    <entry file="file://$PROJECT_DIR$/luajit2-2.1-20190530/src/lj_cconv.h" />
+    <entry file="file://$PROJECT_DIR$/luajit2-2.1-20190530/src/lj_cconv.c" />
+    <entry file="file://$PROJECT_DIR$/luajit2-2.1-20190530/src/lib_ffi.c" />
+    <entry file="file://$PROJECT_DIR$/lua-nginx-module-0.10.15/src/ngx_http_lua_pcrefix.c" />
+    <entry file="file://$PROJECT_DIR$/lua-nginx-module-0.10.15/src/ngx_http_lua_util.h" />
+    <entry file="file://$PROJECT_DIR$/luajit2-2.1-20190530/src/lj_obj.h" />
+    <entry file="file://$PROJECT_DIR$/run_path/lua/t.lua" />
+    <entry file="file://$PROJECT_DIR$/lua-nginx-module-0.10.15/src/ngx_http_lua_util.c" />
+    <entry file="file://$PROJECT_DIR$/lua-nginx-module-0.10.15/src/ngx_http_lua_worker.c" />
+    <entry file="file://$PROJECT_DIR$/luajit2-2.1-20190530/src/lj_api.c" />
+    <entry file="file://$PROJECT_DIR$/lua-nginx-module-0.10.15/src/ngx_http_lua_contentby.c" />
+    <entry file="file://$PROJECT_DIR$/.settings/language.settings.xml" />
+    <entry file="file://$PROJECT_DIR$/compile_commands.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luajit2-2.1-20190530/src/lj_ccall.c" />
+    <entry file="file://$PROJECT_DIR$/run_path/conf/ngx_stream_conf/app-dev.conf" />
+    <entry file="file://$PROJECT_DIR$/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_path/conf/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/ngx_string.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/ngx_log.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/http/ngx_http_copy_filter_module.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="377" selection-start-line="377" selection-end-line="377" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/http/modules/ngx_http_range_filter_module.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="966" selection-start-line="966" selection-end-line="966" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/nginx.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="290" selection-start-line="290" selection-end-line="290" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/ngx_cycle.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="274" selection-start-line="274" selection-end-line="274" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/ngx_conf_file.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="462" selection-start-line="462" selection-end-line="462" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/http/ngx_http.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="307" selection-start-line="307" selection-end-line="307" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lua-nginx-module-v0.10.15/src/ngx_http_lua_module.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="789" selection-start-line="789" selection-end-line="789" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lua-nginx-module-v0.10.15/src/ngx_http_lua_util.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="3889" selection-start-line="3889" selection-end-line="3889" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

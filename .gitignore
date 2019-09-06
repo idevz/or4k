@@ -1,0 +1,17 @@
+*.plist
+CHANGES
+CHANGES.ru
+LICENSE
+Makefile
+README
+auto
+tmp
+man
+objs
+src
+compile_commands.json
+conf
+configure
+contrib
+html
+lua
